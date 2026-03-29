@@ -212,7 +212,7 @@ require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
-	github.com/antchfx/xpath v1.2.3
+	github.com/antchfx/xpath v1.3.6
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/caddyserver/certmagic v0.19.2 // indirect
 	github.com/cnf/structhash v0.0.0-20201127153200-e1b16c1ebc08 // indirect
